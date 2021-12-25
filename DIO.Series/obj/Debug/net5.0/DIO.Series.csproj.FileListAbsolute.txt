@@ -1,0 +1,16 @@
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\DESENVOLVIMENTO\DIO\CadastroSimplesSeries\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
